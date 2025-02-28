@@ -13,7 +13,12 @@ git clone https://github.com/Siddharth2207/svelte-error.git
 
 - Enter nix shell : 
 ```
-nix develop && npm install
+nix develop
+```
+
+- Install dependencies : 
+```
+npm install
 ```
 
 - Run the project : 
